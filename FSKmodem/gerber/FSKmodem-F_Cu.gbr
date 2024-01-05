@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
-%TF.CreationDate,2024-01-05T23:23:06+05:00*%
+%TF.CreationDate,2024-01-05T23:35:14+05:00*%
 %TF.ProjectId,FSKmodem,46534b6d-6f64-4656-9d2e-6b696361645f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.6) date 2024-01-05 23:23:06*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2024-01-05 23:35:14*
 %MOMM*%
 %LPD*%
 G01*
@@ -95,17 +95,17 @@ X109780900Y-69325800D03*
 %TO.N,Net-(IC1-OSC2)*%
 X107240900Y-69325800D03*
 %TD*%
-D11*
-%TO.P,SV1,3,3*%
-%TO.N,GND*%
-X103825480Y-68448788D03*
-%TO.P,SV1,2,2*%
-%TO.N,Net-(C2-Pad2)*%
-X103825480Y-70988788D03*
 D10*
 %TO.P,SV1,1,1*%
 %TO.N,Net-(C1-Pad2)*%
 X103825480Y-73528788D03*
+D11*
+%TO.P,SV1,2,2*%
+%TO.N,Net-(C2-Pad2)*%
+X103825480Y-70988788D03*
+%TO.P,SV1,3,3*%
+%TO.N,GND*%
+X103825480Y-68448788D03*
 %TD*%
 D14*
 %TO.P,Q1,1,1*%
