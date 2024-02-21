@@ -822,6 +822,10 @@
     (uuid ec8b37a2-bd0e-4a8d-8451-2976fec8cd7a)
   )
 
+  (no_connect (at 157.48 99.06) (uuid 0cfc01e8-c90e-4f5b-9f21-25d4970c470a))
+  (no_connect (at 137.16 91.44) (uuid 15c52859-bb6a-44d4-a5e5-86218cb87028))
+  (no_connect (at 137.16 104.14) (uuid ccf3b3dc-2faf-4b4a-becc-2565e3c235d0))
+
   (wire (pts (xy 180.34 96.52) (xy 177.8 96.52))
     (stroke (width 0.1524) (type solid))
     (uuid 0d8b7730-4547-46f4-9bcc-be7da1e041a6)
@@ -1137,10 +1141,10 @@
     (property "Datasheet" "" (at 99.06 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a1ecf796-6061-480a-ab1a-9fd53b97fd24))
-    (pin "2" (uuid a64e2315-a2c0-4085-a758-44c4997d2316))
-    (pin "3" (uuid 9facdd8d-a4a8-4a41-bed3-08c9f6f21d5b))
-    (pin "4" (uuid 8d883659-20d3-4fe1-9589-a1cea1665ec8))
+    (pin "1" (uuid 8eed7a7c-01dd-4514-be69-f9c07f4c65c0))
+    (pin "2" (uuid 66efd7e7-2b0e-4b25-a042-49aa5ba6b54f))
+    (pin "3" (uuid 6a745a2a-f272-4c7b-a140-33c8e1014a74))
+    (pin "4" (uuid 417bdd36-d368-441d-9726-3c3495c1d286))
     (instances
       (project "FSKmodem"
         (path "/309410b6-45f9-4453-89f2-35d8e0504c83"
